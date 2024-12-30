@@ -1,4 +1,4 @@
-<h1 align="center"> Ferramentas matemáticas para tratamento de imagens microscópicas
+<h1 align="center"> Ferramentas Matemáticas Aplicadas a Imagens de Microscopia Biológica
  </h1>
 
 # Índice 
@@ -10,13 +10,14 @@
 
 ## 📝Descrição do Projeto 
 
+Este trabalho utiliza filtros passa-baixas, que suavizam os traços da imagem e filtros passa-altas que ressaltam os detalhes, visando a aplicação desses em imagens de microscopia biológica. Sendo que, entre os passa-baixas existentes, ou seja, que permite apenas a passagem das baixas frequências, foi utilizado o filtro gaussiano e o filtro da média, já entre os passa-altas foram aplicados o filtro Sobel e o Unsharp. A filtragem é uma operação que visa extrair informações relevantes da imagem, neste caso, para eliminar ruídos e ressaltar detalhes. Como resultado, ocorre melhora na qualidade da imagem, uma vez que os filtros passa-baixas atuam na suavização da imagem e os passa-alta no realce dos detalhes. O objetivo deste trabalho é explicar o funcionamento individual e em conjunto desses filtros, assim como, explorar a aplicabilidade desses em diversas áreas científicas onde a obtenção de imagens é necessária. Isso porque, a redução de ruídos e o aumento da nitidez auxiliam na melhor visualização do objeto de estudo, contribuindo para análises mais precisas e eficazes.
+
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
 - [Relatório do Projeto]()
 - [Códigos desenvolvidos]()
 - [Imagens Utilizadas]()
-- [Relatório do projeto]()
 
 ## 👩‍💻Desenvolvedoras do Projeto
 
