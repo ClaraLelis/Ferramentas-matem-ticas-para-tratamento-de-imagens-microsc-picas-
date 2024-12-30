@@ -1,5 +1,3 @@
-# Ferramentas-matem-ticas-para-tratamento-de-imagens-microsc-picas-
-
 <h1 align="center"> Ferramentas matemáticas para tratamento de imagens microscópicas
  </h1>
 
