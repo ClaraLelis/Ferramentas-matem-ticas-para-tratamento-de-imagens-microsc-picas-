@@ -30,31 +30,28 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425353?v=4" width=115><br><sub> Rafaela Beatriz Silva Luz </sub>](https://github.com/Rafaela-Luz) | 
 
 ## 📚Referências
-Broad, I. Cellprofiler - advanced modules. https://cellprofiler-manual.s3.amazonaws.com/
-CellProfiler-4.2.1/modules/advanced.html. Accessed: 2024-11-28.
 
-Centeno, J. Spatial filtering/ filtragem. https://docs.ufpr.br/~centeno/m_pdi/pdf/
-jaulapdi03.pdf. Accessed: 2024-11-01.
+Araújo Pessoa, I. de. Análise e extração de características de câncer de pele usando processamento digital de imagens. Accessed: 2024-12-30. Available from: https://repositorio.ufrn.br/handle/123456789/53932.
 
-Cuadros, O., Soriano-Vargas, A., Faiçal, B.S., Hamann, B., Fabro, A.T. and Traina, A.J.M., 2020. Effici-
-ent segmentation of cell nuclei in histopathological images. 2020 ieee 33rd international symposium on
-computer-based medical systems (cbms), pp.47–52. Available from: https://ieeexplore.ieee.
-org/document/9182950.
+AS, R.A. and Gopalan, S., 2022. Comparative analysis of eight direction sobel edge detection algorithm for brain tumor mri images. Procedia computer science, 201, pp.487–494.
 
-Edison O. Jesus, R.C.J., 2015. A utilização de filtros gaussianos na análise de imagens digitais. Proceeding
-series of the brazilian society of computational and applied mathematics, v. 3, n. 1 (2015): Cnmac 2014,
-aug. Available from: https://doi.org/10.5540/03.2015.003.01.0118.
+Bengtsson, E., Wahlby, C. and Lindblad, J., 2004. Robust cell image segmentation methods. Pattern recognition and image analysis c/c of raspoznavaniye obrazov i analiz izobrazhenii., 14(2), pp.157–167.
 
-Junior, G.B. Spatial filtering/ filtragem. https://nca.ufma.br/~geraldo/vc/4.filtros.pdf. Ac-
-cessed: 2024-11-01.
+Broad, I. Cellprofiler - advanced modules. https://cellprofiler-manual.s3.amazonaws.com/CellProfiler-4.2.1/modules/advanced.html. Accessed: 2024-11-28.
 
-Kamentsky, L., Jones, T.R., Fraser, A., Bray, M.A., Logan, D.J., Madden1, K.L. and Ljosa1, V., 2011. Impro-
-ved structure, function and compatibility for cellprofiler: modular high-throughput image analysis software.
-Oxford academic, abr. Available from: https://doi.org/10.1093/bioinformatics/btr095.
+Centeno, J. Spatial filtering/ filtragem. https://docs.ufpr.br/~centeno/m_pdi/pdf/jaulapdi03.pdf. Accessed: 2024-11-01.
 
-Oliveira, B.F.S. de and Magalhães, F.T.A. de, 2005. Filtragem de imagens fixas usando matlab. Feup,
-nov. Available from: https://web.fe.up.pt/~mandrade/tvd/2006/trabalhos1-2005/
-TD-trab1-Filtragem-de-imagens.pdf.
+Cuadros, O., Soriano-Vargas, A., Faiçal, B.S., Hamann, B., Fabro, A.T. and Traina, A.J.M., 2020. Efficient segmentation of cell nuclei in histopathological images. 2020 ieee 33rd international symposium on computer-based medical systems (cbms), pp.47–52. Available from: https://ieeexplore.ieee.org/document/9182950.
 
-Soliman, K., 2015. Cellprofiler: Novel automated image segmentation procedure for super-resolution
-microscopy. Biol proced online, 17, jul. Available from: https://doi.org/10.1186/
+Fisher, R., Perkins, S., Walker, A. and Wolfart, E., c2003. Image processing operator worksheets. https://homepages.inf.ed.ac.uk/rbf/HIPR2/wksheets.htm. Accessed: 2025-01-01.
+
+Jesus, E.O. and Costa Jr, R., 2015. A utilização de filtros gaussianos na análise de imagens digitais. Proceeding series of the brazilian society of computational and applied mathematics, 3(1).
+
+Junior, G.B. Spatial filtering/ filtragem. https://nca.ufma.br/~geraldo/vc/4.filtros.pdf. Accessed: 2024-11-01.
+
+Oliveira, B.F.S. de and Magalhães, F.T.A. de, 2005. Filtragem de imagens fixas usando matlab. Feup,nov. Available from: https://web.fe.up.pt/~mandrade/tvd/2006/trabalhos1-2005/TD-trab1-Filtragem-de-imagens.pdf.
+
+UFPR, n.d. Localização de bordas e pontos. Ufpr - setor de ciências da terra - departamento de geomática. Accessed: 2024-12-30. Available from: https://docs.ufpr.br/~centeno/p_pdi/pdf/jaulapdi07.pdf.
+
+Vahadane, A. and Sethi, A., 2013. Towards generalized nuclear segmentation in histological images. 13thieee international conference on bioinformatics and bioengineering. pp.1–4. Available from: https://doi.org/10.1109/BIBE.2013.6701556.
+
