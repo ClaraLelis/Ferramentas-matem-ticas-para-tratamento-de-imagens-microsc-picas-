@@ -1,4 +1,4 @@
-<h1 align="center"> Ferramentas Matemáticas Aplicadas a Imagens de Microscopia Biológica
+<h1 align="center"> Uso de filtros passa-baixas e passa-altas para estudo de imagens de microscopia biológica
  </h1>
 
 # Índice 
